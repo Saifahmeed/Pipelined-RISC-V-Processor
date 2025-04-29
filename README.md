@@ -10,10 +10,6 @@ This project implements femtoRV32, a simplified RISC-V RV32I processor for FPGA 
 - **Custom test program generator** (C++) for creating random valid instruction sequences.
 - **Successful FPGA deployment** and testing using **Nexys A7** board.
 
-## Issues (All Resolved)
-- Timing inconsistencies during memory operations on FPGA.
-- Minor simulation mismatches for special instructions (`ECALL`, `EBREAK`).
-
 ## Assumptions
 - Byte-addressable, word-aligned memory system.
 - Static branch prediction; no dynamic prediction techniques.
