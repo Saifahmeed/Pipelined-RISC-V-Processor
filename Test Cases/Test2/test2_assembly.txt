@@ -1,0 +1,29 @@
+addi x1, x0, 1
+sltiu x2, x1, 2
+ori x3, x0, -1
+slti x4, x3, 0
+xori x5, x1, 3
+andi x6, x1, 3
+slli x7, x1, 1
+srli x8, x3, 1
+srai x9, x3, 1
+add x10, x1, x2
+sub x11, x5, x1
+sll x12, x1, x1
+srl x13, x3, x1
+sra x14, x3, x1
+sltu x15, x1, x7
+slt x16, x3, x0
+or x17, x1, x0
+xor x17, x17, x5
+and x18, x17, x1
+sw x13, 0(x0)
+sh x13, 5(x0)
+sb x1, 4(x0)
+lhu x19, 4(x0)
+lh x20, 4(x0)
+lbu x21, 5(x0)
+lb x22, 5(x0)
+lw x23, 0(x0)
+lui x24, 1
+auipc x25, 1

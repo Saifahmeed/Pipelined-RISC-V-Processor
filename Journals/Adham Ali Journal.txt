@@ -1,0 +1,24 @@
+MS2
+Oct 22, 7:00PM: - Implemented J Type instructions.
+                  - Worked on ecall and fence functionalities.
+
+Oct 26, 8:00PM: - Completed implementation of R Type instructions.
+                  - Implemented Branching for B Type instructions.
+                  - debugged the Big module functions.
+
+Oct 27, 6:00PM: - Finalized Break instruction implementation.
+                  - Reviewed and integrated Saif's work into the Big module.
+Oct 28, 6:00PM: - Finalized the report with Saif and the readme file.
+Oct 28, 10:00PM: - Finished the Datapath diagram.
+                
+MS3
+Sept 12, 11:00AM: Finished the `BCD.v` module, implementing double-dabble algorithm for BCD conversion.
+Oct 1, 3:30PM: Developed the `DFlipFlop.v` module with asynchronous reset functionality.
+Oct 5, 2:45PM: Debugged the `ForwardingUnit.v` module to handle pipeline hazards correctly.
+Oct 20, 4:45PM: Completed the `Four_Digit_Seven_Segment_Driver_Optimized.v` for driving the display with BCD input.
+Nov 1, 11:00AM: Enhanced the arithmetic operations in the `ALUN.v` module for additional edge cases.
+Nov 5, 11:10AM: Built the `ImmGen.v` module for immediate value extraction and sign-extension.
+Nov 9, 3:00PM: Verified the `Register.v` module functionality using edge-case test scenarios.
+Nov 13, 3:15PM: Completed the `Mem.v` memory unit with read/write control.
+Nov 13, 5:30PM: Worked on integrating components in `Top.v` for the final processor design.
+Nov 13, 7:00PM: Drew the final datapath diagram for the RISC-V processor project.

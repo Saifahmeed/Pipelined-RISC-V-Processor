@@ -1,0 +1,20 @@
+sh x3, 69(x30)
+bltu x14, x18, 104
+sh x27, 95(x9)
+div x12, x28, x7
+add x28, x30, x13
+ori x18, x30, 69
+div x6, x27, x11
+sw x29, 41(x9)
+sub x28, x20, x11
+bge x27, x19, 92
+blt x27, x14, 100
+sb x14, 46(x0)
+srli x22, x9, 6
+jalr x15, x28, 84
+blt x0, x6, 76
+mulh x27, x23, x18
+bltu x2, x17, 32
+bgeu x26, x16, 76
+jalr x9, x18, 24
+remu x21, x5, x25

@@ -1,0 +1,28 @@
+MS2
+Oct 22, 9:00PM: - Completed implementation of I Type instructions.
+                  - Implemented Load operations.
+                  - Started working on the Big module functions.
+
+Oct 25, 6:00PM: - Finished implementing B Type instructions.
+                  - Implemented Store operations.
+                  - Debugged the initial Load operations for proper functionality.
+
+Oct 26, 8:00PM: - Implemented U Type.
+
+Oct 27, 9:00PM: - Implemented I Type.
+
+Oct 28, 6:00PM: - Finalized the report with Adham and the readme file.
+                
+MS3                
+Sept 12, 12:30PM: Assisted in testing and implementing the `BCD.v` module for correct BCD conversion.
+Oct 5, 12:15PM: Implemented the `ForwardingUnit.v` for resolving pipeline hazards.
+Oct 20, 6:00PM: Verified functionality of `Four_Digit_Seven_Segment_Driver_Optimized.v` using simulation tests.
+Nov 1, 9:50AM: Created the arithmetic and logical operations for the `ALUN.v` module.
+Nov 3, 10:30AM: Completed the design of the `ALUCU.v` module for ALU control signal generation.
+Nov 5, 12:00PM: Debugged issues in `ImmGen.v` for sign-extension and immediate value extraction.
+Nov 9, 2:30PM: Designed the `Register.v` module using parameterized D flip-flops.
+Nov 10, 1:55PM: Finished the C++ test case generator, implementing the bonus options with Adham.
+Nov 10, 5:00PM: Debugged and validated the `RF.v` register file module.
+Nov 13, 11:45AM: Implemented the `CU.v` control unit and integrated instruction decoding logic.
+Nov 13, 6:00PM: Assisted with final testing and integration in `Top.v` module.
+Nov 13, 4:15PM: Completed writing the detailed project report for the RISC-V processor.
